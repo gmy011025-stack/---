@@ -1,0 +1,13 @@
+<svg width="1100" height="720" viewBox="0 0 1100 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1100" height="720" fill="#071018"/>
+  <rect x="36" y="34" width="1028" height="652" fill="#0B121A" stroke="rgba(255,255,255,.12)"/>
+  <rect x="72" y="76" width="956" height="74" fill="#101923" stroke="rgba(255,255,255,.09)"/>
+  <circle cx="112" cy="113" r="10" fill="#8EE6B0"/><circle cx="144" cy="113" r="10" fill="#5B8CFF" opacity=".75"/><circle cx="176" cy="113" r="10" fill="#607085" opacity=".55"/>
+  <text x="222" y="122" fill="#EAF6FF" font-family="Arial, sans-serif" font-size="26" font-weight="700">LYNK &amp; CO SCRM SYSTEM</text>
+  <rect x="76" y="184" width="226" height="420" fill="#0E1721" stroke="rgba(255,255,255,.09)"/>
+  <rect x="332" y="184" width="696" height="420" fill="#0E1721" stroke="rgba(255,255,255,.09)"/>
+  <rect x="104" y="220" width="166" height="12" fill="#8EE6B0" opacity=".78"/><rect x="104" y="262" width="126" height="10" fill="#6C7A8F" opacity=".52"/><rect x="104" y="294" width="146" height="10" fill="#6C7A8F" opacity=".42"/><rect x="104" y="390" width="146" height="112" fill="#111F2B" stroke="rgba(255,255,255,.08)"/>
+  <rect x="372" y="228" width="238" height="132" fill="#111F2B" stroke="rgba(255,255,255,.08)"/><rect x="636" y="228" width="338" height="132" fill="#111F2B" stroke="rgba(255,255,255,.08)"/><rect x="372" y="394" width="602" height="168" fill="#111F2B" stroke="rgba(255,255,255,.08)"/>
+  <circle cx="435" cy="294" r="38" fill="#8EE6B0" opacity=".18" stroke="#8EE6B0"/><circle cx="714" cy="294" r="24" fill="#5B8CFF" opacity=".35"/><circle cx="790" cy="294" r="24" fill="#5B8CFF" opacity=".25"/><circle cx="866" cy="294" r="24" fill="#5B8CFF" opacity=".18"/>
+  <rect x="414" y="434" width="498" height="16" fill="#8EE6B0" opacity=".5"/><rect x="414" y="478" width="412" height="16" fill="#5B8CFF" opacity=".45"/><rect x="414" y="522" width="534" height="16" fill="#6C7A8F" opacity=".34"/>
+</svg>
